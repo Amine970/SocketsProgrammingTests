@@ -1,4 +1,4 @@
-package avecThread;
+package TCP.avecThread;
 
 import java.io.*;
 import java.net.Socket;

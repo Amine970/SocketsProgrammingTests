@@ -1,4 +1,4 @@
-package sansThread;
+package TCP.sansThread;
 
 import java.io.*;
 import java.net.Socket;
